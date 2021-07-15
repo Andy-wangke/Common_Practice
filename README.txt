@@ -1,1 +1,3 @@
-This is the common area while learning something
+# python tutorials
+
+There're some basic tutorials learning along the way
